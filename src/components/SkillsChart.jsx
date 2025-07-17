@@ -5,7 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from './ui/card';
 const SkillsChart = ({ language }) => {
   const skillsData = [
     { skill: 'Golang', level: 95, category: 'Backend' },
-    { skill: 'Python', level: 90, category: 'Backend' },
+    { skill: 'PHP', level: 90, category: 'Backend' },
     { skill: 'JavaScript', level: 88, category: 'Frontend' },
     { skill: 'React', level: 90, category: 'Frontend' },
     { skill: 'AWS', level: 90, category: 'Cloud' },
