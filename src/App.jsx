@@ -275,7 +275,7 @@ const skills = {
 };
 
 function App() {
-    const [language, setLanguage] = useState('pt');
+    const [language, setLanguage] = useState('en');
     const [activeSection, setActiveSection] = useState('hero');
     const {scrollYProgress} = useScroll();
 
