@@ -212,19 +212,19 @@ const education = [
 // Dados das habilidades
 const skills = {
   languages: [
+    { name: 'PHP', level: 95 },
     { name: 'Golang', level: 95 },
     { name: 'Python', level: 90 },
     { name: 'JavaScript', level: 88 },
-    { name: 'PHP', level: 85 },
     { name: 'Java', level: 80 },
     { name: 'C#', level: 75 }
   ],
   frameworks: [
-    { name: 'React', level: 90 },
-    { name: 'Vue.js', level: 85 },
+    { name: 'Laravel', level: 95 },
+    { name: 'Vue.js', level: 90 },
+    { name: 'React', level: 85 },
     { name: 'Node.js', level: 88 },
-    { name: '.NET', level: 75 },
-    { name: 'Laravel', level: 80 }
+    { name: '.NET', level: 75 }
   ],
   databases: [
     { name: 'MySQL', level: 90 },
