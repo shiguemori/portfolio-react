@@ -131,7 +131,9 @@ const translations = {
             subtitle: 'Let\'s talk about your next project',
             email: 'Email',
             phone: 'Phone',
-            location: 'Location'
+            location: 'Location',
+            linkedin: 'LinkedIn',
+            github: 'GitHub',
         }
     }
 };
